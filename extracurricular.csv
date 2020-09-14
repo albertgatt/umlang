@@ -1,0 +1,85 @@
+"Role"|"Type"|"Lang"|"Value"|"Prop"
+"1"|"Academic"|"Extra curricular"|"AR"|"No"|66.88
+"2"|"Nonacademic"|"Extra curricular"|"AR"|"No"|70.09
+"3"|"Student"|"Extra curricular"|"AR"|"No"|62.4
+"4"|"Academic"|"MT for Specific Purposes"|"AR"|"No"|NA
+"5"|"Nonacademic"|"MT for Specific Purposes"|"AR"|"No"|NA
+"6"|"Student"|"MT for Specific Purposes"|"AR"|"No"|NA
+"7"|"Academic"|"Extra curricular"|"DE"|"No"|59.75
+"8"|"Nonacademic"|"Extra curricular"|"DE"|"No"|55.93
+"9"|"Student"|"Extra curricular"|"DE"|"No"|58.78
+"10"|"Academic"|"MT for Specific Purposes"|"DE"|"No"|NA
+"11"|"Nonacademic"|"MT for Specific Purposes"|"DE"|"No"|NA
+"12"|"Student"|"MT for Specific Purposes"|"DE"|"No"|NA
+"13"|"Academic"|"Extra curricular"|"EN"|"No"|78.79
+"14"|"Nonacademic"|"Extra curricular"|"EN"|"No"|50.32
+"15"|"Student"|"Extra curricular"|"EN"|"No"|61.95
+"16"|"Academic"|"MT for Specific Purposes"|"EN"|"No"|NA
+"17"|"Nonacademic"|"MT for Specific Purposes"|"EN"|"No"|NA
+"18"|"Student"|"MT for Specific Purposes"|"EN"|"No"|NA
+"19"|"Academic"|"Extra curricular"|"ES"|"No"|54.39
+"20"|"Nonacademic"|"Extra curricular"|"ES"|"No"|38.76
+"21"|"Student"|"Extra curricular"|"ES"|"No"|46.93
+"22"|"Academic"|"MT for Specific Purposes"|"ES"|"No"|NA
+"23"|"Nonacademic"|"MT for Specific Purposes"|"ES"|"No"|NA
+"24"|"Student"|"MT for Specific Purposes"|"ES"|"No"|NA
+"25"|"Academic"|"Extra curricular"|"FR"|"No"|51.65
+"26"|"Nonacademic"|"Extra curricular"|"FR"|"No"|48
+"27"|"Student"|"Extra curricular"|"FR"|"No"|51.39
+"28"|"Academic"|"MT for Specific Purposes"|"FR"|"No"|NA
+"29"|"Nonacademic"|"MT for Specific Purposes"|"FR"|"No"|NA
+"30"|"Student"|"MT for Specific Purposes"|"FR"|"No"|NA
+"31"|"Academic"|"Extra curricular"|"IT"|"No"|67.66
+"32"|"Nonacademic"|"Extra curricular"|"IT"|"No"|43.24
+"33"|"Student"|"Extra curricular"|"IT"|"No"|46.64
+"34"|"Academic"|"MT for Specific Purposes"|"IT"|"No"|NA
+"35"|"Nonacademic"|"MT for Specific Purposes"|"IT"|"No"|NA
+"36"|"Student"|"MT for Specific Purposes"|"IT"|"No"|NA
+"37"|"Academic"|"Extra curricular"|"MT"|"No"|65.19
+"38"|"Nonacademic"|"Extra curricular"|"MT"|"No"|36.99
+"39"|"Student"|"Extra curricular"|"MT"|"No"|43.44
+"40"|"Academic"|"MT for Specific Purposes"|"MT"|"No"|9.62
+"41"|"Nonacademic"|"MT for Specific Purposes"|"MT"|"No"|9.3
+"42"|"Student"|"MT for Specific Purposes"|"MT"|"No"|13
+"43"|"Academic"|"Extra curricular"|"AR"|"Yes"|33.12
+"44"|"Nonacademic"|"Extra curricular"|"AR"|"Yes"|29.91
+"45"|"Student"|"Extra curricular"|"AR"|"Yes"|37.6
+"46"|"Academic"|"MT for Specific Purposes"|"AR"|"Yes"|NA
+"47"|"Nonacademic"|"MT for Specific Purposes"|"AR"|"Yes"|NA
+"48"|"Student"|"MT for Specific Purposes"|"AR"|"Yes"|NA
+"49"|"Academic"|"Extra curricular"|"DE"|"Yes"|40.25
+"50"|"Nonacademic"|"Extra curricular"|"DE"|"Yes"|44.07
+"51"|"Student"|"Extra curricular"|"DE"|"Yes"|41.22
+"52"|"Academic"|"MT for Specific Purposes"|"DE"|"Yes"|NA
+"53"|"Nonacademic"|"MT for Specific Purposes"|"DE"|"Yes"|NA
+"54"|"Student"|"MT for Specific Purposes"|"DE"|"Yes"|NA
+"55"|"Academic"|"Extra curricular"|"EN"|"Yes"|21.21
+"56"|"Nonacademic"|"Extra curricular"|"EN"|"Yes"|49.68
+"57"|"Student"|"Extra curricular"|"EN"|"Yes"|38.05
+"58"|"Academic"|"MT for Specific Purposes"|"EN"|"Yes"|NA
+"59"|"Nonacademic"|"MT for Specific Purposes"|"EN"|"Yes"|NA
+"60"|"Student"|"MT for Specific Purposes"|"EN"|"Yes"|NA
+"61"|"Academic"|"Extra curricular"|"ES"|"Yes"|45.61
+"62"|"Nonacademic"|"Extra curricular"|"ES"|"Yes"|61.24
+"63"|"Student"|"Extra curricular"|"ES"|"Yes"|53.07
+"64"|"Academic"|"MT for Specific Purposes"|"ES"|"Yes"|NA
+"65"|"Nonacademic"|"MT for Specific Purposes"|"ES"|"Yes"|NA
+"66"|"Student"|"MT for Specific Purposes"|"ES"|"Yes"|NA
+"67"|"Academic"|"Extra curricular"|"FR"|"Yes"|48.35
+"68"|"Nonacademic"|"Extra curricular"|"FR"|"Yes"|52
+"69"|"Student"|"Extra curricular"|"FR"|"Yes"|48.61
+"70"|"Academic"|"MT for Specific Purposes"|"FR"|"Yes"|NA
+"71"|"Nonacademic"|"MT for Specific Purposes"|"FR"|"Yes"|NA
+"72"|"Student"|"MT for Specific Purposes"|"FR"|"Yes"|NA
+"73"|"Academic"|"Extra curricular"|"IT"|"Yes"|32.34
+"74"|"Nonacademic"|"Extra curricular"|"IT"|"Yes"|56.76
+"75"|"Student"|"Extra curricular"|"IT"|"Yes"|53.36
+"76"|"Academic"|"MT for Specific Purposes"|"IT"|"Yes"|NA
+"77"|"Nonacademic"|"MT for Specific Purposes"|"IT"|"Yes"|NA
+"78"|"Student"|"MT for Specific Purposes"|"IT"|"Yes"|NA
+"79"|"Academic"|"Extra curricular"|"MT"|"Yes"|34.81
+"80"|"Nonacademic"|"Extra curricular"|"MT"|"Yes"|63.01
+"81"|"Student"|"Extra curricular"|"MT"|"Yes"|56.56
+"82"|"Academic"|"MT for Specific Purposes"|"MT"|"Yes"|90.38
+"83"|"Nonacademic"|"MT for Specific Purposes"|"MT"|"Yes"|90.7
+"84"|"Student"|"MT for Specific Purposes"|"MT"|"Yes"|87
